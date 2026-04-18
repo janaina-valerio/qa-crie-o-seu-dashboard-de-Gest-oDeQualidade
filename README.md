@@ -36,7 +36,7 @@ Diferente de aplicações tradicionais que exigem instalação local, este Dashb
 
 ## ⚙️ Como Replicar este Projeto
 
-O código-fonte (`dashboard_qa.tsx`) contido neste repositório pode ser:
+O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste repositório pode ser:
 
 1. Inserido em um ambiente que suporte **React + Tailwind** (como Vite ou Create React App).
 2. Utilizado como um script em plataformas de IA com suporte a artefatos dinâmicos.
@@ -67,6 +67,14 @@ Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele util
 [1ª versão do Dashboard](https://gemini.google.com/share/1e3897c9541f)
 
 [Versão que contém dados separados por versões](https://gemini.google.com/share/ee3bbd85bff4)
+
+## 🧩 Dica de milhões 
+* A IA utilizada nesse projeto foi a **Gemini**
+* Foi utilizado a ferramenta **Canvas** em conjunto com a Gemini
+* **A IA não consegue gerar NENHUM Dashboard editáveis sem o Canvas**
+* Prompt de comando precisa ser assim:
+*"Crie um Dashboard editável com os dados a seguir"* E informe os dados que deseja e precisa que sejam exibidos no seu Dashboard.
+
 
 ## 👤 Autora
 Desenvolvido por Janaína com muito carinho e ❤️
