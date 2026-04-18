@@ -15,7 +15,7 @@ Esse Dashboard é uma ferramenta **Serverless e Reativa** 📊
 - **Gestão de Retorno (To Return DEV)** — Monitoramento preciso de issues que voltam para desenvolvimento
 - **Consolidação de Dados** — Métricas por versão ou consolidadas
 - **Colaboração** — Toda a equipe edita e visualiza os dados simultaneamente via Firebase
-- **Destaque** - O QA que 
+- **Destaque** - O QA que apresenta esse Dashboard, se destaca em sua Equipe de trabalho 💡
 
 ## 🛠️ Tecnologias
 
