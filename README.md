@@ -41,7 +41,7 @@ O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste rep
 2. Utilizado como um script em plataformas de IA com suporte a artefatos dinâmicos.
 3. Configurado para apontar para sua própria instância do Firebase.
 
-## 🔧 Como Usar o Dashboard
+## 📊 Como Usar o Dashboard
 
 ### Forma Rápida (Recomendada)
 1. Abra um dos links acima
@@ -70,17 +70,17 @@ O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste rep
 
 Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o **Firebase** cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
 
-## 🎲 Dashboard em Execução com Dados Fictícios
+## 🎥 Demonstração do Dashboard em Execução com Dados Fictícios
 
 ![Dashboard em funcionamento](Dashboard-JananaMayaraValerio.gif)
 
 
-## 🔗 Link do Dashboard em Produção
-[Ver Dashboard ao Vivo](https://gemini.google.com/share/c47be9ad5208)
+## 🔗 Versões Ativas (Gemini Canvas)
+[Versão Principal](https://gemini.google.com/share/c47be9ad5208)
 
-[1ª versão do Dashboard](https://gemini.google.com/share/1e3897c9541f)
+[Versão Inicial](https://gemini.google.com/share/1e3897c9541f)
 
-[Versão que contém dados separados por versões](https://gemini.google.com/share/ee3bbd85bff4)
+[Versão com separação por Versões](https://gemini.google.com/share/ee3bbd85bff4)
 
 ## 🧩 Dica de milhões 
 * A IA utilizada nesse projeto foi a **Gemini**
@@ -88,6 +88,16 @@ Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele util
 * **A IA não consegue gerar NENHUM Dashboard editáveis sem o Canvas**
 * Prompt de comando precisa ser assim:
 *"Crie um Dashboard editável com os dados a seguir"* E informe os dados que deseja e precisa que sejam exibidos no seu Dashboard.
+
+## ⚙️ Como Executar Localmente
+
+```bash
+git clone https://github.com/janaina-valerio/qa-dashboard-gestao-qualidade.git
+cd qa-dashboard-gestao-qualidade
+npm install
+cp .env.example .env
+npm run dev
+```
 
 
 ## 👤 Autora
