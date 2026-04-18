@@ -22,17 +22,43 @@ Um dashboard moderno e em tempo real para gestão de qualidade do **Degust PDV D
 - **Gráficos**: Recharts
 - **Deploy**: (Firebase Hosting / Vercel / Netlify)
 
-## 🚀 Como rodar localmente
+## 🌐 Modelo de Implantação e Acesso
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/degust-pdv-quality-dashboard.git
+Diferente de aplicações tradicionais que exigem instalação local, este Dashboard foi concebido como uma **Solução Reativa via Nuvem**. 
 
-# Entre na pasta
-cd degust-pdv-quality-dashboard
+- **Plataforma de Execução:** O dashboard opera diretamente sobre uma infraestrutura de IA Generativa (Gemini), funcionando como um "Live Artifact".
+- **Persistência:** Todos os dados são sincronizados em tempo real com o **Firebase Firestore**, garantindo que, mesmo sendo acessado via link dinâmico, as informações de QA sejam mantidas e compartilhadas entre a equipe.
+- **Acesso:** O acesso é realizado através de um link de visualização reativo, eliminando a necessidade de configuração de ambientes locais (Node.js, Webpack, etc.) para os usuários finais (QA's e Gestores).
 
-# Instale as dependências
-npm install
 
-# Rode o projeto
-npm run dev
+## ⚙️ Como Replicar este Projeto
+
+O código-fonte (`dashboard_qa.tsx`) contido neste repositório pode ser:
+
+1. Inserido em um ambiente que suporte **React + Tailwind** (como Vite ou Create React App).
+2. Utilizado como um script em plataformas de IA com suporte a artefatos dinâmicos.
+3. Configurado para apontar para sua própria instância do Firebase.
+
+
+## IMPORTANTE LEMBRAR QUE:
+
+Este dashboard foi projetado sob o conceito de Zero Infrastructure. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o Firebase cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
+
+## 📸 Screenshots
+
+<img src="link-da-imagem.png" alt="Dashboard Principal">
+<img src="link-da-imagem2.png" alt="Tela de Retornos">
+
+## 🔗 Link do Dashboard em Produção
+Ver Dashboard ao Vivo()
+
+## 💡 Funcionalidades Principais
+
+Cadastro e monitoramento de versões
+Acompanhamento de issues "To Return DEV"
+Gráficos de estabilidade por versão
+Filtros e consolidação de métricas
+Atualização em tempo real (Firebase)
+
+## 👤 Autora
+Desenvolvido por Janaína com muito carinho e ❤️
