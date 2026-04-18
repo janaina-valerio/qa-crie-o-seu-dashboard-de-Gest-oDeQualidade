@@ -69,8 +69,7 @@ O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste rep
 * ✅ Gráficos de estabilidade por versão
 * ✅ Filtros e consolidação de métricas
 * ✅ Atualização em tempo real (Firebase)
-* ✅ As apresentações Review jamais serão as mesmas com esse Dashboard 🛫
-* ✅ Confiabilidade na Equipe de QA
+* ✅ Interface responsiva e otimizada para apresentações 
 
 ## 💡OBSERVAÇÃO IMPORTANTE🧩
 
