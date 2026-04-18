@@ -17,13 +17,12 @@ Esse Dashboard é uma ferramenta **Serverless e Reativa** 📊
 - **Colaboração** — Toda a equipe edita e visualiza os dados simultaneamente via Firebase
 - **Destaque** — O QA que apresenta esse Dashboard, se destaca em sua Equipe de trabalho 💡
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: React.js + Vite
-- **Estilização**: Tailwind CSS
-- **Banco de Dados**: Firebase Firestore (Realtime)
+- **Frontend**: React.js + Tailwind CSS
 - **Gráficos**: Recharts
-- **Deploy**: (Firebase Hosting / Vercel / Netlify)
+- **Banco de Dados**: Firebase Firestore (Realtime)
+- **Criação**: Gemini + Canvas
 
 ## 🌐 Modelo de Implantação e Acesso
 
@@ -38,9 +37,24 @@ Diferente de aplicações tradicionais que exigem instalação local, este Dashb
 
 O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste repositório pode ser:
 
-1. Inserido em um ambiente que suporte **React + Tailwind** (como Vite ou Create React App).
+1. Inserido em um ambiente que suporte **React + Tailwind**.
 2. Utilizado como um script em plataformas de IA com suporte a artefatos dinâmicos.
 3. Configurado para apontar para sua própria instância do Firebase.
+
+## 🔧 Como Usar o Dashboard
+
+### Forma Rápida (Recomendada)
+1. Abra um dos links acima
+2. Peça para a Gemini atualizar os dados conforme sua necessidade
+3. Compartilhe o link com o time
+
+## 🔧 Como Criar o seu próprio Dashboard
+
+### Utilizando a IA de sua preferência + Ferramenta Canvas
+1. Faça download do código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`)
+2. Peça para a IA ou Gemini atualizar os dados conforme sua necessidade
+3. Compartilhe o link com o time
+
 
 ## 💡 Funcionalidades Principais
 
@@ -52,7 +66,7 @@ O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste rep
 * ✅ As apresentações Review jamais serão as mesmas com esse Dashboard 🛫
 * ✅ Confiabilidade na Equipe de QA
 
-## 💡Informação Importante 🧩
+## 💡OBSERVAÇÃO IMPORTANTE🧩
 
 Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o **Firebase** cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
 
