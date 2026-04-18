@@ -7,7 +7,7 @@
 
 Um dashboard moderno e em tempo real para gestão de qualidade do **Degust PDV Delphi**, desenvolvido para transformar métricas brutas em decisões estratégicas.
 
-Posso dizer que esse Dashboard é uma ferramenta **Serverless e Reativa** 📊
+Esse Dashboard é uma ferramenta **Serverless e Reativa** 📊
 
 ## ✨ O que este projeto resolve
 
@@ -44,12 +44,12 @@ O código-fonte (`dashboard_qa.tsx`) contido neste repositório pode ser:
 
 ## 💡
 
-Este dashboard foi projetado sob o conceito de Zero Infrastructure. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o Firebase cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
+Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o **Firebase** cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
 
 ## 📸 Screenshots
 
-<img src="link-da-imagem.png" alt="Dashboard Principal">
-<img src="link-da-imagem2.png" alt="Tela de Retornos">
+<gif src="link-da-imagem.png" alt="Dashboard Principal">
+
 
 ## 🔗 Link do Dashboard em Produção
 Ver Dashboard ao Vivo()
