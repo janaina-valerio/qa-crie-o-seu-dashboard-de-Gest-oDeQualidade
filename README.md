@@ -7,6 +7,8 @@
 
 Um dashboard moderno e em tempo real para gestão de qualidade do **Degust PDV Delphi**, desenvolvido para transformar métricas brutas em decisões estratégicas.
 
+Posso dizer que esse Dashboard é uma ferramenta **Serverless e Reativa** 📊
+
 ## ✨ O que este projeto resolve
 
 - **Visibilidade em Tempo Real** — Adeus planilhas estáticas!
