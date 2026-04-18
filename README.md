@@ -42,7 +42,7 @@ O código-fonte (`dashboard_qa.tsx`) contido neste repositório pode ser:
 3. Configurado para apontar para sua própria instância do Firebase.
 
 
-## IMPORTANTE LEMBRAR QUE:
+## 💡
 
 Este dashboard foi projetado sob o conceito de Zero Infrastructure. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o Firebase cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
 
