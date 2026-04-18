@@ -95,17 +95,6 @@ Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele util
 * Prompt de comando precisa ser assim:
 *"Crie um Dashboard editável com os dados a seguir"* E informe os dados que deseja e precisa que sejam exibidos no seu Dashboard.
 
-## ⚙️ Como Executar Localmente
-
-```bash
-git clone https://github.com/janaina-valerio/qa-dashboard-gestao-qualidade.git
-cd qa-dashboard-gestao-qualidade
-npm install
-cp .env.example .env
-npm run dev
-```
-
-
 ## 👤 Autora
 Desenvolvido por Janaína com muito carinho e ❤️
 
