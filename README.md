@@ -55,6 +55,12 @@ O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste rep
 2. Peça para a IA ou Gemini atualizar os dados conforme sua necessidade
 3. Compartilhe o link com o time
 
+## 🎲 Configuração Firebase
+
+1. Crie um projeto no Firebase Console
+2. Ative Firestore Database
+3. Adicione as credenciais no arquivo ```.env```
+
 
 ## 💡 Funcionalidades Principais
 
