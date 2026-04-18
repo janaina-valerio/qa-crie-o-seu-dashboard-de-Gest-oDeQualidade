@@ -73,7 +73,6 @@ Desenvolvido por Janaína com muito carinho e ❤️
 
 - E-mail: jm.janainamayara@hotmail.com
 - GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
-- LinkedIn: [Janaína Mayara Valério](www.linkedin.com/in/janaína-mayara-dos-santos-valério-32b0a8139)
-
+  
   
 ⭐ **Deixe uma estrela se este projeto te ajudou! 💜**
