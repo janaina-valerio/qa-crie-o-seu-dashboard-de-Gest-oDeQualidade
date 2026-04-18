@@ -15,6 +15,7 @@ Esse Dashboard é uma ferramenta **Serverless e Reativa** 📊
 - **Gestão de Retorno (To Return DEV)** — Monitoramento preciso de issues que voltam para desenvolvimento
 - **Consolidação de Dados** — Métricas por versão ou consolidadas
 - **Colaboração** — Toda a equipe edita e visualiza os dados simultaneamente via Firebase
+- **Destaque** - O QA que 
 
 ## 🛠️ Tecnologias
 
@@ -41,8 +42,17 @@ O código-fonte (`dashboard_qa.tsx`) contido neste repositório pode ser:
 2. Utilizado como um script em plataformas de IA com suporte a artefatos dinâmicos.
 3. Configurado para apontar para sua própria instância do Firebase.
 
+## 💡 Funcionalidades Principais
 
-## 💡
+* ✅ Cadastro e monitoramento de versões
+* ✅ Acompanhamento de issues "To Return DEV"
+* ✅ Gráficos de estabilidade por versão
+* ✅ Filtros e consolidação de métricas
+* ✅ Atualização em tempo real (Firebase)
+* ✅ As apresentações Review jamais serão as mesmas com esse Dashboard 🛫
+* ✅ Confiabilidade na Equipe de QA
+
+## 💡Informação Importante 🧩
 
 Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o **Firebase** cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
 
@@ -55,16 +65,14 @@ Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele util
 [Ver Dashboard ao Vivo](https://gemini.google.com/share/c47be9ad5208)
 
 [1ª versão do Dashboard](https://gemini.google.com/share/1e3897c9541f)
+
 [Versão que contém dados separados por versões](https://gemini.google.com/share/ee3bbd85bff4)
-
-
-## 💡 Funcionalidades Principais
-
-Cadastro e monitoramento de versões
-Acompanhamento de issues "To Return DEV"
-Gráficos de estabilidade por versão
-Filtros e consolidação de métricas
-Atualização em tempo real (Firebase)
 
 ## 👤 Autora
 Desenvolvido por Janaína com muito carinho e ❤️
+
+- E-mail: jm.janainamayara@hotmail.com
+- GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
+
+  
+⭐ **Deixe uma estrela se este projeto te ajudou! 💜**
