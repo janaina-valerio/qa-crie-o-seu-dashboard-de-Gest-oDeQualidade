@@ -79,8 +79,9 @@ Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele util
 ## 👤 Autora
 Desenvolvido por Janaína com muito carinho e ❤️
 
-- E-mail: jm.janainamayara@hotmail.com
-- GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
+📧: [jm.janainamayara@hotmail.com](jm.janainamayara@hotmail.com)
+
+GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
   
   
-⭐ **Deixe uma estrela se este projeto te ajudou! 💜**
+⭐ **Se este projeto te ajudou, deixe uma estrela! 💜**
