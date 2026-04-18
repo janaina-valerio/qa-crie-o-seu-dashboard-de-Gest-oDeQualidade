@@ -46,13 +46,17 @@ O código-fonte (`dashboard_qa.tsx`) contido neste repositório pode ser:
 
 Este dashboard foi projetado sob o conceito de **Zero Infrastructure**. Ele utiliza a capacidade de processamento de IA para renderizar a interface (React) em tempo real, enquanto o **Firebase** cuida da camada de dados na nuvem. Isso permite que a equipe de QA acesse o relatório atualizado de qualquer lugar, via link, sem precisar de deploys complexos ou servidores dedicados.
 
-## 📸 Screenshots
+## 🎲 Dashboard em Execução com Dados Fictícios
 
-<gif src="link-da-imagem.png" alt="Dashboard Principal">
+![Dashboard em funcionamento](Dashboard-JananaMayaraValerio.gif)
 
 
 ## 🔗 Link do Dashboard em Produção
-Ver Dashboard ao Vivo()
+[Ver Dashboard ao Vivo](https://gemini.google.com/share/c47be9ad5208)
+
+[1ª versão do Dashboard](https://gemini.google.com/share/1e3897c9541f)
+[Versão que contém dados separados por versões](https://gemini.google.com/share/ee3bbd85bff4)
+
 
 ## 💡 Funcionalidades Principais
 
