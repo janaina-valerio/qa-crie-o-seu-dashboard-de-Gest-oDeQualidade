@@ -105,6 +105,7 @@ Desenvolvido por Janaína com muito carinho e ❤️
 📧: [jm.janainamayara@hotmail.com](jm.janainamayara@hotmail.com)
 
 GitHub: [@janaina-valerio](https://github.com/janaina-valerio)
-  
+
+* Este projeto foi realizado quando eu trabalhava na Linx Sistemas em Dezembro de 2025.
   
 ⭐ **Se este projeto te ajudou, deixe uma estrela! 💜**
