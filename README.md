@@ -41,6 +41,8 @@ O código-fonte (`dashboard_qa.tsx`) ou (`dashboard_qa-1.tsx`) contido neste rep
 2. Utilizado como um script em plataformas de IA com suporte a artefatos dinâmicos.
 3. Configurado para apontar para sua própria instância do Firebase.
 
+*Utilizem também o arquivo com o código-fonte: (`prompt-canvas-janaina.txt`)*
+
 ## 📊 Como Usar o Dashboard
 
 ### Forma Rápida (Recomendada)
