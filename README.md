@@ -9,13 +9,16 @@ Um dashboard moderno e em tempo real para gestão de qualidade do **Degust PDV D
 
 Esse Dashboard é uma ferramenta **Serverless e Reativa** 📊
 
+## 🎯 Objetivo Principal
+* Este Dashboard foi criado com o intuito de facilitar a visualização de dados cruciais para os Gestores e Líderes em métricas, devido ao aumento de quantidade de issues devolvidas para o desenvolvimento + a quantidade de bugs encontrados durante o processo -> 🔁 *RETURN TO DEV*. Haviam muitos projetos pausados devido a isso.
+* Com este Dashboard o Desenvolvimento passou a ter um cuidado redobrado ao gerar os PR's dos projetos.
+
 ## ✨ O que este projeto resolve
 
 - **Visibilidade em Tempo Real** — Adeus planilhas estáticas!
 - **Gestão de Retorno (To Return DEV)** — Monitoramento preciso de issues que voltam para desenvolvimento
 - **Consolidação de Dados** — Métricas por versão ou consolidadas
 - **Colaboração** — Toda a equipe edita e visualiza os dados simultaneamente via Firebase
-- **Destaque** — O QA que apresenta esse Dashboard, se destaca em sua Equipe de trabalho 💡
 
 ## 🛠️ Tecnologias Utilizadas
 
